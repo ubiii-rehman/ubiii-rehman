@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ubiii-rehman
+- 👋 Hi, I’m Ubaid ur Rehman
 - 🌱 I’m currently a PhD researcher in Economics.
-- 👀 I’m interested in quantitative finance and macro-econometrics.
-- 📫 How to reach me https://sites.google.com/view/ubaidrehman/about
+- 👀 I’m interested in international economics, macrofinance and monetary economics.
+- 📫 How to reach me: ubaid-ur.rehman@cyu.fr
+- Read more about me at https://sites.google.com/view/ubaidrehman/about
 
 
 <!---
